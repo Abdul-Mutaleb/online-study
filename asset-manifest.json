@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/online-study/static/css/main.977a88d1.css",
+    "main.js": "/online-study/static/js/main.0870438d.js",
+    "static/js/453.47bc926c.chunk.js": "/online-study/static/js/453.47bc926c.chunk.js",
+    "static/media/img1.jpg": "/online-study/static/media/img1.b7a0b71373d20ae90660.jpg",
+    "static/media/blog3.jpg": "/online-study/static/media/blog3.9898155c935fcb3e8b3e.jpg",
+    "static/media/blog1.jpg": "/online-study/static/media/blog1.2a3f3f25f08786838863.jpg",
+    "static/media/blog2.jpg": "/online-study/static/media/blog2.bc4d50a4fafca4f72821.jpg",
+    "static/media/b1.png": "/online-study/static/media/b1.7b5066e94f8572fc3a04.png",
+    "static/media/team2.jpg": "/online-study/static/media/team2.b54975d9a019fd575ff7.jpg",
+    "static/media/team4.jpg": "/online-study/static/media/team4.a2d25ae8de0cc1384336.jpg",
+    "static/media/team1.jpg": "/online-study/static/media/team1.51a23a600e0155e3ac7e.jpg",
+    "static/media/banner.png": "/online-study/static/media/banner.6e72f9e87925e900e069.png",
+    "static/media/middle.png": "/online-study/static/media/middle.ce2bb0852cc24982e9f9.png",
+    "static/media/team3.jpg": "/online-study/static/media/team3.012d782e3f4d7e6e736a.jpg",
+    "static/media/c3.png": "/online-study/static/media/c3.ae34d34c05990c7d4cd2.png",
+    "static/media/c6.png": "/online-study/static/media/c6.67a581bce719fe0f6697.png",
+    "index.html": "/online-study/index.html",
+    "main.977a88d1.css.map": "/online-study/static/css/main.977a88d1.css.map",
+    "main.0870438d.js.map": "/online-study/static/js/main.0870438d.js.map",
+    "453.47bc926c.chunk.js.map": "/online-study/static/js/453.47bc926c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.977a88d1.css",
+    "static/js/main.0870438d.js"
+  ]
+}
